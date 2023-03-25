@@ -1,0 +1,23 @@
+{
+  "name": "@globalchat/cdn",
+  "version": "1.0.0",
+  "description": "A package to easily interact with Global Chat's CDN.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Global-Chat-7493/cdn-package.git"
+  },
+  "keywords": [
+    "globalchat",
+    "cdn"
+  ],
+  "author": "William Harrison <william@williamharrison.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Global-Chat-7493/cdn-package/issues"
+  },
+  "homepage": "https://github.com/Global-Chat-7493/cdn-package#readme",
+  "dependencies": {
+    "axios": "^1.3.4"
+  }
+}
